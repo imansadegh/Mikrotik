@@ -1,4 +1,4 @@
- /routing/table/add fib name=vpn
+/routing/table/add fib name=vpn
 
 
 /routing table add name=vpn
