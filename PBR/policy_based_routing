@@ -1,0 +1,7 @@
+ /routing/table/add fib name=vpn
+
+
+/routing table add name=vpn
+
+/ip firewall address-list
+add list=iran  address=
